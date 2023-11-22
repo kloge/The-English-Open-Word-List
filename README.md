@@ -1,4 +1,4 @@
-# The-English-Open-Word-List
+# The English Open Word List
 The EOWL is a free word list currently containing about 128,985 words.
 The “English Open Word List” (EOWL) was developed by Ken Loge, but is
 almost entirely derived from the “UK Advanced Cryptics Dictionary”
