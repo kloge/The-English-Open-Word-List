@@ -26,9 +26,6 @@ Edition™ 1995, ISBN 0-87779-220-8.”
 The current distribution of words for each letter in EOWL is listed
 below.
 
-| ------------- | ------------- | ------------- | ------------- |
-| A Words - 7,296  | B Words - 7,272  | C Words - 11,382 | D Words - 7,217 |
-
 A Words - 7,296
 B Words - 7,272
 C Words - 11,382
